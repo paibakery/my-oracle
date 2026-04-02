@@ -23,8 +23,11 @@
 
 ## Skills
 
-[จะเพิ่มใน Step 3]
+
+`/recap` `/learn` `/rrr` `/forward` `/standup` `/dig` `/trace`
 
 ## Brain Structure
 
-[จะเพิ่มใน Step 4]
+\`\`\`
+ψ/ → inbox/ | memory/ (learnings, retros) | writing/ | lab/ | active/
+\`\`\`
